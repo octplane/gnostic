@@ -16,7 +16,7 @@ package vocabulary
 
 import (
 	metrics "github.com/googleapis/gnostic/metrics"
-	openapi_v2 "github.com/googleapis/gnostic/openapiv2"
+	openapi_v2 "github.com/googleapis/gnostic/OpenAPIv2"
 )
 
 func (vocab *Vocabulary) processOperationV2(operation *openapi_v2.Operation) {

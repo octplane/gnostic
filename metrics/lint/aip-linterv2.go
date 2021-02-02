@@ -18,7 +18,7 @@ import (
 	"fmt"
 
 	rules "github.com/googleapis/gnostic/metrics/rules"
-	pb "github.com/googleapis/gnostic/openapiv2"
+	pb "github.com/googleapis/gnostic/OpenAPIv2"
 )
 
 // fillProtoStructure takes a slice of rules and coverts them to a slice of

@@ -32,7 +32,7 @@ import (
 	"github.com/googleapis/gnostic/compiler"
 	discovery_v1 "github.com/googleapis/gnostic/discovery"
 	"github.com/googleapis/gnostic/jsonwriter"
-	openapi_v2 "github.com/googleapis/gnostic/openapiv2"
+	openapi_v2 "github.com/googleapis/gnostic/OpenAPIv2"
 	openapi_v3 "github.com/googleapis/gnostic/openapiv3"
 	plugins "github.com/googleapis/gnostic/plugins"
 	surface "github.com/googleapis/gnostic/surface"
